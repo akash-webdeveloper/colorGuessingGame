@@ -1,0 +1,30 @@
+body{
+    background-color: #232323;
+}
+
+.square{
+  width: 30%;
+  padding-bottom: 30%;
+  background: red;
+  float: left;
+  margin: 1.6%;
+}
+#container{
+  margin: 0 auto;
+  max-width: 500px;
+}
+h1{
+  color:white;
+}
+#message{
+    margin-right: 141px;
+    margin-left: 128px;
+}
+#strip{
+  text-align: center;
+  background-color: white;
+   height:30px;
+}
+.selected{
+  background: lightblue;
+}
